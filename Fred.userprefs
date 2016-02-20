@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Parallax\Assets\Scripts\Classes\Memory.cs">
+    <Files>
+      <File FileName="..\Parallax\Assets\Scripts\Controllers\TriggerController.cs" Line="5" Column="2" />
+      <File FileName="..\Parallax\Assets\Scripts\Classes\Memory.cs" Line="140" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
